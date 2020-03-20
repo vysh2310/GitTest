@@ -32,7 +32,7 @@ static int get_oil_pressure(void)
 		i = 1;
 	}
 	    
-    return i;
+    return i-2;
 }
 
 /* Here we demonstrate Polyspace Verifier's ability to track a
