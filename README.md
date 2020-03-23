@@ -1,2 +1,2 @@
 # GitTest
-This is a test for GIT and Jenkins Integration
+This is a test for GIT and Jenkins Integration, commit and recommint
