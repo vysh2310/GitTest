@@ -1,6 +1,6 @@
 /**
   * Polyspace example.
-  * This file defines the high-level procedures for the tasking examples.
+  * This file defines the high-level procedures for the tasking examples.Tasking
   *       Copyright 2012-2013 The MathWorks, Inc.
   */
 
