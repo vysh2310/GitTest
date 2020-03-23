@@ -1,6 +1,6 @@
 /**
   * Polyspace example.
-  *       Copyright 2012-2013 The MathWorks, Inc.
+  *       Copyright 2012-2013 The MathWorks, Inc.Things to test
   */
 
 #include <assert.h>
